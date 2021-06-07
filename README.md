@@ -2,7 +2,7 @@
 
 <img src="build/icons/128x128.png" alt="logo" height="80" align="right" />
 
-[![dependencies Status](https://david-dm.org/julian-alarcon/prospect-mail/status.svg)](https://david-dm.org/julian-alarcon/prospect-mail) [![devDependencies Status](https://david-dm.org/julian-alarcon/prospect-mail/dev-status.svg)](https://david-dm.org/julian-alarcon/prospect-mail?type=dev)
+[![dependencies Status](https://david-dm.org/szpaczyna/prospect-mail/status.svg)](https://david-dm.org/szpaczyna/prospect-mail) [![devDependencies Status](https://david-dm.org/szpaczyna/prospect-mail/dev-status.svg)](https://david-dm.org/szpaczyna/prospect-mail?type=dev)
 
 The Outlook desktop client for the [new Outlook Interface](https://www.microsoft.com/en-us/microsoft-365/blog/2018/06/13/power-and-simplicity-updates-to-the-office-365-user-experience/) from Microsoft 365.
 
@@ -25,10 +25,10 @@ The Outlook desktop client for the [new Outlook Interface](https://www.microsoft
 
 The main software architecture components and their versions are this:
 
-* [Node.js](https://nodejs.org/en/) version: 12.19.x
+* [Node.js](https://nodejs.org/en/) version: 14.17.x
 * [yarn](https://yarnpkg.com/) version: 1.22.x or newer
-* [electron](http://electronjs.org/) version: 10.1.x
-* [electron-builder](https://www.electron.build/) version: 22.9.x
+* [electron](http://electronjs.org/) version: 13.1.x
+* [electron-builder](https://www.electron.build/) version: 22.11.x
 * [electron-settings](https://github.com/nathanbuchar/electron-settings) version: 4.0.2
 
 ## Build
